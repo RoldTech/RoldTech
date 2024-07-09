@@ -4,13 +4,15 @@
 - 🌱 I’m currently taking the Coursera Google Cybersecurity Course
 - 📫 How to reach me:
   
--FB:   @Harold Ramirez Tacastacas
+-FB:   Harold Ramirez Tacastacas
 
--IG:   @rold_yy
+-Email:  haroldtacastacas61@gmail.com
 
--TryHackme:   @CybeRold
+-IG:   rold_yy
 
--Security BlueTeam:   @Harold Tacastacas
+-TryHackme:   CybeRold
+
+-Security BlueTeam:   Harold Tacastacas
 
 <!---
 RoldTech/RoldTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
