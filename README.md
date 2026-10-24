@@ -64,6 +64,8 @@ SOC Analyst with hands-on experience in network operations, phishing and email h
 
 ![ufw](https://img.shields.io/badge/-ufw-E95420?&style=for-the-badge&logoColor=white)
 ![fail2ban](https://img.shields.io/badge/-fail2ban-2E7D32?&style=for-the-badge&logoColor=white)
+![WAF](https://img.shields.io/badge/-WAF-0277BD?&style=for-the-badge&logoColor=white)
+![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?&style=for-the-badge&logo=fortinet&logoColor=white)
 
 ### Threat Intelligence & OSINT
 
