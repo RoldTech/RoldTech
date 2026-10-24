@@ -28,33 +28,57 @@ SOC Analyst with hands-on experience in network operations, phishing and email h
 
 ## Tools
 
-### Network Analysis
+### Network Analysis & Monitoring
 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/-tcpdump-2C3E50?&style=for-the-badge&logoColor=white)
+![Scapy](https://img.shields.io/badge/-Scapy-1B5E20?&style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-004100?&style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/-Nikto-8B0000?&style=for-the-badge&logoColor=white)
-
-### Penetration Testing & Security
-
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)
-
-### Security Information & Event Management
-
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=wazuh&logoColor=white)
 
 ### Intrusion Detection
 
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-B71C1C?&style=for-the-badge&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-1E88E5?&style=for-the-badge&logoColor=white)
 
-### Threat Intelligence & Email Security
+### SIEM & Log Monitoring
+
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=wazuh&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?&style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### Vulnerability Assessment & Auditing
+
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-3C8D40?&style=for-the-badge&logoColor=white)
+![Lynis](https://img.shields.io/badge/-Lynis-E53935?&style=for-the-badge&logoColor=white)
+
+### Operating Systems & Pen Testing
+
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-7B1FA2?&style=for-the-badge&logoColor=white)
+
+### Firewall & Hardening
+
+![ufw](https://img.shields.io/badge/-ufw-E95420?&style=for-the-badge&logoColor=white)
+![fail2ban](https://img.shields.io/badge/-fail2ban-2E7D32?&style=for-the-badge&logoColor=white)
+
+### Threat Intelligence & OSINT
 
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-1E3A8A?&style=for-the-badge&logoColor=white)
 ![Cisco Talos](https://img.shields.io/badge/-Cisco_Talos-049FD9?&style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco ETD](https://img.shields.io/badge/-Cisco_ETD-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white)
+![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-0D47A1?&style=for-the-badge&logoColor=white)
+![Sherlock](https://img.shields.io/badge/-Sherlock-37474F?&style=for-the-badge&logoColor=white)
+
+### Email Security
+
 ![Mimecast](https://img.shields.io/badge/-Mimecast-E4002B?&style=for-the-badge&logoColor=white)
+![Cisco ETD](https://img.shields.io/badge/-Cisco_ETD-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white)
+![MXToolbox](https://img.shields.io/badge/-MXToolbox-F57C00?&style=for-the-badge&logoColor=white)
+![Have I Been Pwned](https://img.shields.io/badge/-Have_I_Been_Pwned-2A6379?&style=for-the-badge&logoColor=white)
 
 ### Monitoring & Ticketing
 
@@ -68,7 +92,7 @@ SOC Analyst with hands-on experience in network operations, phishing and email h
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
-![Regex](https://img.shields.io/badge/-Regular_Expressions-333333?&style=for-the-badge&logoColor=white)
+![Regular Expressions](https://img.shields.io/badge/-Regular_Expressions-333333?&style=for-the-badge&logoColor=white)
 
 ## Certifications
 
